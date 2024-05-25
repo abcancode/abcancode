@@ -8,4 +8,5 @@
 - 📫 How to reach me: chidozieintech@gmail.com
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I don't eat chickens.
+  ![Header](./your-header-image-name.png)
 
