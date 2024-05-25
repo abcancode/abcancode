@@ -10,5 +10,3 @@
 - ⚡ Fun fact: I don't eat chickens.
 -->
 
-## Link
-
