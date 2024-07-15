@@ -1,11 +1,11 @@
 ## Hi there 👋
 <!--
-- 🔭 I’m currently working on Vividly.
-- 🌱 I’m currently learning REACT.
-- 👯 I’m looking to collaborate on React projects.
-- 🤔 I’m looking to be hired as a React Developer.
-- 💬 Ask me about React. 
-- 📫 How to reach me: jonasbraham@gmail.com
+- 🔭 I’m currently working on Laravel Web App.
+- 🌱 I’m currently building stuff with LARAVEL.
+- 👯 I’m looking to collaborate on Laravel projects.
+- 🤔 I’m looking to be hired as a Laravel Developer.
+- 💬 Ask me about LARAVEL. 
+- 📫 How to reach me: chidozieintech@gmail.com
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I don't eat chickens.
 -->
