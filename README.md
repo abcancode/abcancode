@@ -87,17 +87,6 @@ Currently, I lead **[WebCrunch Limited](https://github.com/WebCrunchLimited)** â
   />
 </p>
 
-<!-- Activity Graph -->
-<p align="center">
-  <a href="https://github.com/ChidozieUgwu">
-    <img 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=ChidozieUgwu&theme=github-light&hide_border=true&radius=8&area=true" 
-      alt="Chidozie's GitHub Activity Graph" 
-    />
-  </a>
-</p>
-
-
 ---
 
 ### ðŸ“« Connect With Me
