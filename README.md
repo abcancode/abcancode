@@ -74,14 +74,14 @@ Currently, I lead **[WebCrunch Limited](https://github.com/WebCrunchLimited)** â
 <p align="center">
   <!-- GitHub Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=ChidozieUgwu&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" 
-    alt="Chidozie's GitHub stats" 
+    src="https://github-readme-stats.vercel.app/api?username=abcancode&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" 
+    alt="abcancode's GitHub stats" 
     height="165" 
   />
   
   <!-- Top Languages (Excluding Jupyter & Others) -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChidozieUgwu&layout=compact&langs_count=8&hide=jupyter%20notebook,html,css,scss,tsql,batchfile,shell&hide_border=true&theme=transparent" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abcancode&layout=compact&langs_count=8&hide=jupyter%20notebook,html,css,scss,tsql,batchfile,shell&hide_border=true&theme=transparent" 
     alt="Top Languages" 
     height="165" 
   />
