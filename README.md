@@ -79,9 +79,9 @@ Currently, I lead **[WebCrunch Limited](https://github.com/WebCrunchLimited)** â
     height="165" 
   />
   
-  <!-- Top Languages (Excluding Jupyter & Others) -->
+  <!-- Top Languages (Includes HTML, CSS, SCSS; Hides less relevant ones) -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abcancode&layout=compact&langs_count=8&hide=jupyter%20notebook,html,css,scss,tsql,batchfile,shell&hide_border=true&theme=transparent" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abcancode&layout=compact&langs_count=8&hide=jupyter%20notebook,tsql,batchfile,shell&hide_border=true&theme=transparent" 
     alt="Top Languages" 
     height="165" 
   />
