@@ -2,10 +2,6 @@
 **ChidozieUgwu/ChidozieUgwu** — Professional GitHub Profile README
 -->
 
-<p align="center">
-  <img  alt="Chidozie Ugwu | Cloud Engineer & Tech Founder" width="100%" />
-</p>
-
 <h1 align="center">👋 Hi, I'm <a href="https://github.com/ChidozieUgwu">Chidozie Ugwu</a></h1>
 <h3 align="center">🚀 Cloud Engineer | Developer | Tech Founder</h3>
 
