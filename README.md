@@ -70,10 +70,33 @@ Currently, I lead **[WebCrunch Limited](https://github.com/WebCrunchLimited)** â
 ---
 
 ### ðŸ“Š GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChidozieUgwu&show_icons=true&theme=tokyonight" alt="Chidozie's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChidozieUgwu&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ChidozieUgwu&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" 
+    alt="Chidozie's GitHub stats" 
+    height="165" 
+  />
+  
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChidozieUgwu&layout=compact&langs_count=6&hide_border=true&theme=transparent" 
+    alt="Top Languages" 
+    height="165" 
+  />
 </p>
+
+<!-- Activity Graph (Shows 2025 commits clearly) -->
+<p align="center">
+  <a href="https://github.com/ChidozieUgwu">
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=ChidozieUgwu&theme=github-light&hide_border=true&radius=8" 
+      alt="Chidozie's GitHub Activity Graph" 
+    />
+  </a>
+</p>
+
 
 ---
 
