@@ -79,19 +79,19 @@ Currently, I lead **[WebCrunch Limited](https://github.com/WebCrunchLimited)** â
     height="165" 
   />
   
-  <!-- Top Languages -->
+  <!-- Top Languages (Refined for Accuracy) -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChidozieUgwu&layout=compact&langs_count=6&hide_border=true&theme=transparent" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChidozieUgwu&layout=compact&langs_count=8&hide=html,css,scss,tsql,shell,batchfile&hide_border=true&theme=transparent" 
     alt="Top Languages" 
     height="165" 
   />
 </p>
 
-<!-- Activity Graph (Shows 2025 commits clearly) -->
+<!-- Activity Graph (Real 2025 Commits) -->
 <p align="center">
   <a href="https://github.com/ChidozieUgwu">
     <img 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=ChidozieUgwu&theme=github-light&hide_border=true&radius=8" 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=ChidozieUgwu&theme=github-light&hide_border=true&radius=8&area=true" 
       alt="Chidozie's GitHub Activity Graph" 
     />
   </a>
